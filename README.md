@@ -33,3 +33,6 @@ Generates data for SM estimation code
 #### 05_SingleStep_TGCN
 
 #### 07_MultiStep_TCN
+
+##### p.s. 
+/path/ : refers to local path of data - replace with your local path
